@@ -1,0 +1,21 @@
+body {
+    background: #F8F9F6;
+}
+.head-body {
+    background: #0D0D0C;
+}
+h2 {
+    font-family: 'Merriweather', serif;    
+    color: #630EF2
+    
+}
+h3 {
+    font-family: 'Merriweather', serif;    
+    color: #D64D4D
+}
+.panel-body{
+    background-image: url("backgroun.jpg");    
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
